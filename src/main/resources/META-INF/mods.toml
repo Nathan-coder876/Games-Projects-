@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+    modId="everfizz"
+    version="0.0.1"
+    displayName="EverFizz Mod"
+    authors="Nathan"
+    description='''
+Um minério em homenagem a EverBlue.
+    '''
+
+[[dependencies.everfizz]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.everfizz]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.4]"
+    ordering="NONE"
+    side="BOTH"
