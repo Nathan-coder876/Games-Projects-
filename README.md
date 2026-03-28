@@ -8,6 +8,7 @@
 </div>
 
 ---
+
 Este é o meu primeiro passo no mundo do desenvolvimento de jogos! Criei este mod de Minecraft como uma forma de aprender a lógica por trás dos games e também para fazer uma homenagem a **EverBlue**.
 
 ## 🛠️ Como eu fiz
